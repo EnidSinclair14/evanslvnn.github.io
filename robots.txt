@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enidsinclair14.github.io/evanslvnn.github.io/sitemap.xml
